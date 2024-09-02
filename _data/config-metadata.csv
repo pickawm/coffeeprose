@@ -5,8 +5,6 @@ date,Date Created,
 description,Description,
 genre,Genre,true
 location,Location
-latitude,Latitude
-longitude,Longitude
 publisher,Publisher
 isbn,ISBN,,
 type,Type,
